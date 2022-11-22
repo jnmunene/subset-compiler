@@ -14,7 +14,7 @@ The 3rd command produces a warning which can be ignored .
 
 The above sequence of commands produces an executable com.out which is our compiler . You can feed in the program to be compiled after typing ```./com.out```
 
-followed by the input program . Type exit ; to escape from the process The intermediate code will be available in a file named output.txt .
+followed by the input program . Type exit ; to escape from the process. The intermediate code will be available in a file named output.txt .
 
 Alternatively you can write a program in a file and put it in the same directory and you canb compile it by using the redirection operator '<' Suppose the filename is program.txt
 
