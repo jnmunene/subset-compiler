@@ -3,7 +3,7 @@ This repository has been created as a part of the compiler assignment . The comp
 
 # Compiling the Code
 
-  ```{Python}flex lexanalyser.l```
+  ```   flex lexanalyser.l```
      ```bison -d parser.y```
      ```gcc -c lex.yy.c parser.tab.c```
      ```gcc -o com.out lex.yy.o parser.tab.o```
