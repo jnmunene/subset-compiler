@@ -24,7 +24,7 @@ Dont Forget to put exit; at the end of the program to terminate compilations.
 Intermediate Code will be available in output.txt
 
 # Sample programs with its outputs
-![sample output](/screenshots/Screenshot from 2022-11-22 13-59-16.png)
+![sample output](screenshots/Screenshot from 2022-11-22 13-59-16.png)
 # Documentation
 The explanation for code portions are present in the comments in code . If you have difficulty raise an issue .
 
