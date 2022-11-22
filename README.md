@@ -23,10 +23,10 @@ Dont Forget to put exit; at the end of the program to terminate compilations.
 
 Intermediate Code will be available in output.txt
 
-# Sample programs with its outputs
+# Sample program with its outputs
 ![sample output](screenshots/Screenshot%20from%202022-11-22%2013-59-16.png)
 # Documentation
-The explanation for code portions are present in the comments in code . If you have difficulty raise an issue .
+The explanation for code portions are present in the comments in code . 
 
 # Contribute
 If you feel any changes to be made feel free to issue a pull request . The code performs poorly in memory optimisation for generating code
