@@ -2,18 +2,20 @@
 This repository has been created as a part of the compiler assignment . The compiler developed is upto the intermediate code generation phase.
 
 Compiling the Code
-  ```flex lexanalyser.l```
+
+  ```flex lexanalyser.l
   
  
-  ```bison -d parser.y```
+  bison -d parser.y
   
-  ```gcc -c lex.yy.c parser.tab.c```
+  gcc -c lex.yy.c parser.tab.c
   
-  ```gcc -o com.out lex.yy.o parser.tab.o```
+  gcc -o com.out lex.yy.o parser.tab.o```
   
 The 3rd command produces a warning which can be ignored .
 
-Running the Compiler
+# Running the Compiler
+
 The above sequence of commands produces an executable ##com.out## which is our compiler . You can feed in the program to be compiled after typing
 
 followed by the input program . Type exit ; to escape from the process. The intermediate code will be available in a file named output.txt .
@@ -27,7 +29,8 @@ Intermediate Code will be available in output.txt
 
 
 
-Documentation
+# Documentation
+
 The explanation for code portions are present in the comments in code . If you have difficulty raise an issue .
 
 Contribute
